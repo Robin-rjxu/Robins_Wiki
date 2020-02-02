@@ -1,0 +1,34 @@
+{
+  "name": "Robins_wiki",
+  "version": "0.0.1",
+  "private": true,
+  "description": "A personal wiki imitate Wikitten style for Hexo",
+  "keywords": [
+    "hexo",
+    "theme",
+    "wiki",
+    "personal"
+  ],
+  "license": "MIT",
+  "hexo": {
+    "version": "4.2.0"
+  },
+  "dependencies": {
+    "hexo": "^4.2.0",
+    "hexo-autonofollow": "latest",
+    "hexo-deployer-git": "latest",
+    "hexo-directory-category": "latest",
+    "hexo-generator-archive": "latest",
+    "hexo-generator-category": "latest",
+    "hexo-generator-feed": "latest",
+    "hexo-generator-index": "latest",
+    "hexo-generator-json-content": "latest",
+    "hexo-generator-sitemap": "latest",
+    "hexo-generator-tag": "latest",
+    "hexo-renderer-ejs": "latest",
+    "hexo-renderer-pandoc": "^0.3.0",
+    "hexo-renderer-stylus": "latest",
+    "hexo-server": "latest",
+    "minimatch": "latest"
+  }
+}
