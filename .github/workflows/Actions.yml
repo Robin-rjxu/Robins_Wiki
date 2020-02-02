@@ -40,5 +40,8 @@ jobs:
         run: |
           # add pandoc to PATH
           export PATH="$PATH:$RUNNER_TOOL_CACHE/pandoc-2.7.3/bin"
+          npm uninstall hexo-renderer-marked --save
+          npm install hexo-renderer-pandoc --save
           # publish
+          hexo clean
           hexo generate && hexo deploy
