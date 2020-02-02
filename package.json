@@ -26,7 +26,7 @@
     "hexo-generator-sitemap": "latest",
     "hexo-generator-tag": "latest",
     "hexo-renderer-ejs": "latest",
-    "hexo-renderer-pandoc": "^0.3.0",
+    "hexo-renderer-pandoc": "latest",
     "hexo-renderer-stylus": "latest",
     "hexo-server": "latest",
     "minimatch": "latest"
