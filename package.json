@@ -14,7 +14,9 @@
     "version": "4.2.0"
   },
   "dependencies": {
-    "hexo": "^4.2.0",
+    "hexo": "latest",
+    "hexo-abbrlink": "latest",
+    "hexo-all-minifier": "latest",
     "hexo-autonofollow": "latest",
     "hexo-deployer-git": "latest",
     "hexo-directory-category": "latest",
