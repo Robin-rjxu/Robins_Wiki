@@ -1,11 +1,12 @@
 ---
 title: 安装 Git 与使用 Github
 toc: true
-date: 2020-03-28 14:35:36
 tags:
-    - git
-    - github
-    - tools
+  - git
+  - github
+  - tools
+abbrlink: 64853
+date: 2020-03-28 14:35:36
 ---
 
 ## Git 和 Github 简介

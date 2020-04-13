@@ -1,11 +1,12 @@
 ---
 title: 使用 Overleaf 编辑 IEEE 论文
 toc: true
-date: 2020-04-12 21:59:31
 tags:
-    - writing
-    - overleaf
-    - Latex
+  - writing
+  - overleaf
+  - Latex
+abbrlink: 8797
+date: 2020-04-12 21:59:31
 ---
 
 ## 准备工作
@@ -36,7 +37,9 @@ tags:
 >   - .bbl 是 .bib 其编译之后形成的文件
 >   - .bst 设定参考文献出现在文末的方式
 
-## 全局设置 (global )### 类设置
+## 全局设置 (global )
+
+### 类设置
 
 - 声明使用过的类为 IEEEtran，需要存在 IEEEtran.cls 文件
 - 设置项 （更多选项见 IEEEtran.cls 内说明）
@@ -44,11 +47,11 @@ tags:
   - twoside: 规定左右页面排版，默认为 oneside，即左右页面使用相同排版，如页脚页眉，页码位置等等
 
 ```latex
-\documentclass[journal,twoside]{IEEEtran}### 包设置
-- 声明使用的样式包
+\documentclass[journal,twoside]{IEEEtran}
 ```
+### 包设置
 
-- 包说明
+- 声明使用的样式包
   - cite: 优化引用格式
   - graphicx: 插入图片格式
   - amsmath: 数学公式相关格式
