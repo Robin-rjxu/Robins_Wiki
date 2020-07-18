@@ -1,6 +1,7 @@
 ---
 title: Hexo 目录与文件简要说明
 toc: true
+abbrlink: 46484
 date: 2020-03-28 23:35:46
 tags:
 ---

@@ -1,11 +1,12 @@
 ---
 title: StrongArm 比较器
 toc: true
-date: 2020-02-17 11:34:38
 tags:
-    - IC
-    - ADC
-    - comparator
+  - IC
+  - ADC
+  - comparator
+abbrlink: 19262
+date: 2020-02-17 11:34:38
 ---
 
 ## 关键 Keypoints

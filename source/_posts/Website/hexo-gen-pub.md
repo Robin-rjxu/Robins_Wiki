@@ -1,10 +1,11 @@
 ---
 title: 使用 Hexo 生成与配置站点
 toc: true
-date: 2020-03-28 23:31:18
 tags:
-    - hexo
-    - website
+  - hexo
+  - website
+abbrlink: 47926
+date: 2020-03-28 23:31:18
 ---
 
 Hexo 安装完成后，进入博客存放的文件夹，初始化我们的博客，输入：

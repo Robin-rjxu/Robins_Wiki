@@ -1,11 +1,12 @@
 ---
 title: Triple-Tail Comparator for high speed ADC
 toc: true
+tags:
+  - ADC
+  - comparator
+  - IC
+abbrlink: 26789
 date: 2020-02-14 21:42:23
-tags: 
-    - ADC
-    - comparator
-    - IC
 ---
 
 ## 关键 Keypoints

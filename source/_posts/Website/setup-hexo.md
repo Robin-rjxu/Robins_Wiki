@@ -1,10 +1,11 @@
 ---
 title: 安装 Hexo
 toc: true
-date: 2020-03-28 23:25:07
 tags:
-    - hexo
-    - website
+  - hexo
+  - website
+abbrlink: 52045
+date: 2020-03-28 23:25:07
 ---
 
 Hexo是一款基于 Node.js的静态博客框架，依赖少易于安装使用，可以方便的生成静态网页托管在GitHub和Heroku上，是搭建博客的首选框架。Hexo同时也是GitHub上的开源项目，参见：[hexojs/hexo](https://github.com/hexojs/hexo) 如果想要更加全面的了解Hexo，可以到其官网 Hexo 了解更多的细节，因为 Hexo 的创建者是台湾人，对中文的支持很友好，可以选择中文进行查看。

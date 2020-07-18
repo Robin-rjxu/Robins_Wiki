@@ -49,6 +49,7 @@ date: 2020-04-12 21:59:31
 ```latex
 \documentclass[journal,twoside]{IEEEtran}
 ```
+
 ### 包设置
 
 - 声明使用的样式包
@@ -133,7 +134,7 @@ date: 2020-04-12 21:59:31
 ### 一般期刊格式
 
 - 使用 `~` 作为空格，声明该词组不被断行
-- 使用 `~\IEEEmembership{Student~Member,~IEEE,}` 声明作者 IEEE 会员
+- 使用 `\IEEEmembership{Student~Member,~IEEE,}` 声明作者 IEEE 会员
 - 结尾可以用注释符号 `%` 避免行末空格影响格式
 
 ```latex
