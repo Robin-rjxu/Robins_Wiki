@@ -6,3 +6,4 @@ key/
 public/
 .deploy*/
 key/
+**/draft*/

@@ -9,7 +9,7 @@ abbrlink: 19262
 date: 2020-02-17 11:34:38
 ---
 
-## 关键 Keypoints
+## 关键
 
 StrongARM 锁存器的
 
@@ -48,7 +48,7 @@ StrongARM 锁存器的
   - 电源瞬态
     - 锁存器工作时可能从电源汲取峰值较大电流
 
-## 背景 Backgroud
+## 背景
 
 StrongARM 锁存器拓扑可广泛用作 Sense Amplifier，比较器，或者作为是具有高灵敏度的锁存器。 "StrongARM" 一词是为了纪念 Digital Equipment Corporation 的 StrongARM 微处理器中使用此电路，但其基本结构最初是由东芝的 Kobayashi 等人介绍的。 StrongARM 锁存器之所以流行，有以下三个原因：
 
@@ -56,13 +56,13 @@ StrongARM 锁存器拓扑可广泛用作 Sense Amplifier，比较器，或者作
 2. 直接产生轨到轨输出；
 3. 其输入参考失调主要来自一对差分。
 
-## 概述 Overview
+## 概述
 
 Fig.1 (a) 显示了原始的 StrongARM 锁存器，(b) 为其中一种修改，其中的锁存器包括一对钟控的差分对 $M_1 - M_2$，两个交叉耦合对 $M_3 - M_4$ 和 $M_5 - M_6$，以及4个预充电开关 $S_1 - S_4$。
 
 ![strongarm_fig1.png](https://i.loli.net/2020/02/27/Wf4mG2Arz1n8Lp3.png)
 
-## 工作过程 Operation
+## 工作过程
 
 根据输入 $V_{in1}-V_{in2}$ 的极性，电路在 X 和 Y 节点提供输出轨到轨的输出。我们可以将其工作描述为 4 个阶段。
 
@@ -80,7 +80,7 @@ StrongARM 锁存器的功耗主要来源于节点电容的充放电，大约为 
 
 ![strongarm_fig2.png](https://i.loli.net/2020/02/27/4hVAPcISgRvxHuU.png)
 
-## 分析讨论 Analysis
+## 分析讨论
 
 ### 各个晶体管的作用
 
